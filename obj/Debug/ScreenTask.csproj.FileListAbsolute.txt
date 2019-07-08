@@ -1,0 +1,12 @@
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\bin\Debug\WebServer\bootstrap.min.css
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\bin\Debug\WebServer\index.html
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\bin\Debug\Prostreet Live Share.exe.config
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\bin\Debug\Prostreet Live Share.exe
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\bin\Debug\Prostreet Live Share.pdb
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\ScreenTask.csprojAssemblyReference.cache
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\ScreenTask.frmMain.resources
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\ScreenTask.Properties.Resources.resources
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\ScreenTask.csproj.GenerateResource.cache
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\ScreenTask.csproj.CoreCompileInputs.cache
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\Prostreet Live Share.exe
+C:\Users\Accounting\Desktop\ScreenTask_prostreet\obj\Debug\Prostreet Live Share.pdb
